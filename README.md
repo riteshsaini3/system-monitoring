@@ -1,7 +1,7 @@
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 - psutil
@@ -13,7 +13,7 @@
 
 ---
 
-## ⚙️ Configuration (`config.py`)
+##  Configuration (`config.py`)
 
 ```python
 # Thresholds
